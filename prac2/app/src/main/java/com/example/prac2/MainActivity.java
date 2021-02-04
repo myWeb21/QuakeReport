@@ -24,6 +24,7 @@ import java.text.NumberFormat;
  */
 public class MainActivity extends AppCompatActivity {
     int quantity=0;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,16 +40,23 @@ public class MainActivity extends AppCompatActivity {
 
         displayPrice(quantity*5);
     }
+
     private void displayPrice(int number) {
         TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
-        priceTextView.setText(NumberFormat.getCurrencyInstance().format(number));
+        priceTextView.setText("name:\nnwhipped cream:\n quantity"+quantity+"\nthank you\nprice "+NumberFormat.getCurrencyInstance().format(number));
     }
+    public void display()
+    {
+
+    }
+
 
     /**
      * This method displays the given quantity value on the screen.
      */
     private void display(int number) {
         TextView quantityTextView = (TextView) findViewById(R.id.quantity_text_view);
+
         quantityTextView.setText("" + number);
     }
     /**
