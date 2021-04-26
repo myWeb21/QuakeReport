@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prac55</string>
+    <string name="thank_you">बहुत बहुत धन्यवाद</string>
+    <string name="order_summary">आदेश सारांश</string>
+    <string name="order">आदेश</string>
+    <string name="reset">रीसेट करें</string>
+    <string name="your_name">नाम</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="chocolate">" चॉकलेट"</string>
+    <string name="toppings">" टॉपिंग"</string>
+    <string name="add_cream">फेटी हुई मलाई?</string>
+    <string name="add_choc">चॉकलेट जोड़ें?</string>
+    <string name="quantity">" मात्रा"</string>
+    <string name="total">कुल: रु</string>
+    <string name="_0">0</string>
+    <string name="quantity1">" मात्रा"</string>
+</resources>
