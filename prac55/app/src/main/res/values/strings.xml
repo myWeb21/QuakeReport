@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">prac55</string>
+    <string name="toppings">Toppings</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">whipped cream</string>
+    <string name="your_name">Your Name</string>
+    <string name="reset">RESET</string>
+    <string name="order">ORDER</string>
+    <string name="_0">0</string>
+    <string name="order_summary">order summary</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="add_cream">Add whipped Cream?</string>
+    <string name="add_choc">Add Chocolate?</string>
+    <string name="quantity">Quantity</string>
+    <string name="total">Total: Rs </string>
+    <string name="quantity1">QUANTITY</string>
+
+
+</resources>

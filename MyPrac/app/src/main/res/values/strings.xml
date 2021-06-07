@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPrac</string>
+    <string name="submit">submit</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="userAndPassInc">Incorrect Username and password</string>
+    <string name="passInc">password not matched</string>
+    <string name="matched">Username and password matched</string>
+    <string name="userInc">" Username did not match"</string>
+</resources>
