@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPrac</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="submit">" प्रस्तुत"</string>
+    <string name="password">पासवर्ड</string>
+    <string name="userAndPassInc">गलत उपयोगकर्ता नाम और पासवर्ड</string>
+    <string name="passInc">पासवर्ड मिलान नहीं हुआ</string>
+    <string name="userInc">उपयोगकर्ता नाम मिलान नहीं हुआ</string>
+    <string name="matched">" उपयोगकर्ता नाम और पासवर्ड मेल खाते हैं"</string>
+</resources>
